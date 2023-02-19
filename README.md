@@ -2,5 +2,5 @@
 ## Alumnos: 
 ### Rony stanley Marroquin Erroa
 ### Edwin Rene Roque Bonilla
-## Infografia
+## Infografia flutter
 https://drive.google.com/file/d/1uZxeZlLsJulInU7QP3WsczE92iY2ukPC/view?usp=sharing
